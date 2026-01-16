@@ -1,0 +1,7 @@
+Insights 	
+	
+1	Electronics category generates the highest total Sales
+2	West region is contributing the largest share of revenue
+3	Home & Kitchen has highest profit margin
+4	Consumer segment generates more sales than the other segments 
+5	Order volume is evenly distributed across months
